@@ -3,6 +3,7 @@
 #include <pio.h>
 #include <panic.h>
 #include<boot.h>
+#include<ps.h>
 #include "spp_dev_b_buttons.h"
 #include "spp_dev_b_leds.h"
 #include "hal.h"
@@ -485,6 +486,10 @@ void deactivating_handler(Task task, MessageId id, Message message) {
 
 
 void hal_init(Task profileTask) {
+    
+    uint16 psBuff[2] = {6,8};
+    uint16 read[2];
+    uint16 state ;
 	
 	/** set task hander **/
 	hal.task.handler = hal_handler;
@@ -503,7 +508,14 @@ void hal_init(Task profileTask) {
 	
 	/** set init state **/
 	hal.state = INITIALISING;
-	
+    
+
+   state = PsStore (2, psBuff, 2);
+    DEBUG(("PsStore return state %d \n", state));
+    
+    PsRetrieve (2, read, 2); 
+    
+    DEBUG(("PsStore return state %2d \n", read[0]));
 	
 	initialising_state_enter();
 }
