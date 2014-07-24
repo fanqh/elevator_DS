@@ -1,0 +1,5 @@
+analysis.o: analysis.c C:/BlueLab412/tools/include/standard/stdlib.h \
+  C:/BlueLab412/tools/include/standard/csrtypes.h \
+  C:/BlueLab412/tools/include/standard/stdio.h \
+  C:/BlueLab412/tools/lib/gcc-lib/xapnative-local-xapnative/3.3.3/include/stdarg.h \
+  C:/BlueLab412/tools/include/standard/string.h debug.h analysis.h

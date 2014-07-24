@@ -1,0 +1,2 @@
+reset.o: reset.c C:/BlueLab412/tools/include/firmware/pio.h \
+  C:/BlueLab412/tools/include/standard/csrtypes.h reset.h

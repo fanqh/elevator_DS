@@ -1,0 +1,64 @@
+<project buildenvironment="{84faf732-1340-4049-9094-244167adf571}" buildenvironmentname="CSR Virtual Machine" executionenvironmentoption="" buildenvironmentoption="" executionenvironmentname="CSR Virtual Machine" executionenvironment="{2b2c6868-a56e-4266-962a-cddf1c979343}" >
+ <folder name="C Files" >
+  <extension name="c" />
+  <file path="main.c" >
+   <properties>
+    <configuration name="Release" />
+   </properties>
+  </file>
+  <file path="spp_dev_auth.c" />
+  <file path="spp_dev_b_leds.c" />
+  <file path="spp_dev_b_buttons.c" />
+  <file path="spp_dev_parse.c" />
+  <file path="hal.c" />
+  <file path="testlib.c" />
+  <file path="battery_probe.c" />
+  <file path="errman.c" />
+  <file path="sppb.c" />
+  <file path="at_command.c" />
+ </folder>
+ <folder name="Header Files" >
+  <extension name="h" />
+  <file path="spp_dev_private.h" />
+  <file path="spp_dev_auth.h" />
+  <file path="spp_dev_b_leds.h" />
+  <file path="spp_dev_b_buttons.h" />
+  <file path="hal.h" />
+  <file path="hal_config.h" />
+  <file path="testlib.h" />
+  <file path="battery_probe.h" />
+  <file path="messagebase.h" />
+  <file path="battery_probe_private.h" />
+  <file path="errman.h" />
+  <file path="hal_private.h" />
+  <file path="sppb.h" />
+  <file path="bitmacro.h" />
+  <file path="debug.h" />
+  <file path="at_command.h" />
+ </folder>
+ <file path="spp_dev_b_leds.led" />
+ <file path="spp_dev_b_buttons.button" />
+ <file path="README.html" />
+ <file path="spp_dev_b.psr" />
+ <file path="led_timing.def" />
+ <file path="at_command.parse" />
+ <properties currentconfiguration="Release" >
+  <configuration name="Release" >
+   <property key="board" >0</property>
+   <property key="buildMatch" >(file):(line):</property>
+   <property key="buildtransport" >1</property>
+   <property key="debug" >1</property>
+   <property key="debugtransport" >[SPI|LPT1|No]</property>
+   <property key="defines" ></property>
+   <property key="execution_mode" >0</property>
+   <property key="gcc_ver" >1</property>
+   <property key="libs" >connection, spp, region, service,bdaddr,sdp_parse,battery</property>
+   <property key="messages" >0</property>
+   <property key="output" ></property>
+   <property key="panic" >1</property>
+   <property key="primitives" >0</property>
+   <property key="stacksize" ></property>
+   <property key="timestamps" >0</property>
+  </configuration>
+ </properties>
+</project>

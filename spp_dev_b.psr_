@@ -1,0 +1,17 @@
+# 1 "spp_dev_b.psr"
+# 1 "<built-in>"
+# 1 "<command line>"
+# 1 "spp_dev_b.psr"
+
+&035b = 0030 0030 0030 0030
+
+&000e = 0
+
+&0108 = 4B54 4345 3220 3030 4330
+
+
+
+&01fe = 6590
+
+
+&00ef = ffff fe8f ff9b 8359

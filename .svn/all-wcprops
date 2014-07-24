@@ -1,0 +1,309 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 27
+/svn/sppa_scanner/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/sppa_scanner/!svn/ver/1
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sppa_scanner/!svn/ver/1/scanner.h
+END
+spp_dev_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sppa_scanner/!svn/ver/1/spp_dev_private.h
+END
+battery_probe_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sppa_scanner/!svn/ver/1/battery_probe_private.h
+END
+battery_probe.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sppa_scanner/!svn/ver/1/battery_probe.c
+END
+bitmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/sppa_scanner/!svn/ver/1/bitmacro.h
+END
+battery_probe.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sppa_scanner/!svn/ver/1/battery_probe.h
+END
+spp_dev_b.release.mak
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sppa_scanner/!svn/ver/3/spp_dev_b.release.mak
+END
+spp_dev_b_buttons.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_buttons.c
+END
+indication.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sppa_scanner/!svn/ver/1/indication.c
+END
+buzzer.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/sppa_scanner/!svn/ver/1/buzzer.c
+END
+spp_dev_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/sppa_scanner/!svn/ver/3/spp_dev_auth.c
+END
+messagebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sppa_scanner/!svn/ver/1/messagebase.h
+END
+errman.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/sppa_scanner/!svn/ver/1/errman.c
+END
+spp_dev_b_buttons.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_buttons.h
+END
+indication.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sppa_scanner/!svn/ver/1/indication.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/sppa_scanner/!svn/ver/1/debug.c
+END
+buzzer.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/sppa_scanner/!svn/ver/1/buzzer.h
+END
+spp_dev_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/sppa_scanner/!svn/ver/3/spp_dev_auth.h
+END
+errman.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/sppa_scanner/!svn/ver/1/errman.h
+END
+at_command.parse
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sppa_scanner/!svn/ver/1/at_command.parse
+END
+spp_dev_b_leds.led
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_leds.led
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/sppa_scanner/!svn/ver/1/debug.h
+END
+spp_dev_b.map
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sppa_scanner/!svn/ver/3/spp_dev_b.map
+END
+hal_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sppa_scanner/!svn/ver/1/hal_config.h
+END
+barcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sppa_scanner/!svn/ver/1/barcode.c
+END
+at_command.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sppa_scanner/!svn/ver/1/at_command.c
+END
+hal_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sppa_scanner/!svn/ver/1/hal_private.h
+END
+hal.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/sppa_scanner/!svn/ver/1/hal.c
+END
+barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sppa_scanner/!svn/ver/1/barcode.h
+END
+sppb.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/sppa_scanner/!svn/ver/3/sppb.c
+END
+spp_dev_b_vmprops.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_vmprops.xml
+END
+at_command.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sppa_scanner/!svn/ver/1/at_command.h
+END
+spp_dev_b_buttons.button
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_buttons.button
+END
+spp_dev_b_leds.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_leds.c
+END
+hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/sppa_scanner/!svn/ver/1/hal.h
+END
+battery_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sppa_scanner/!svn/ver/1/battery_private.h
+END
+sppb.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/sppa_scanner/!svn/ver/3/sppb.h
+END
+spp_dev_b.xip.bak
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b.xip.bak
+END
+command_return_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sppa_scanner/!svn/ver/1/command_return_code.h
+END
+spp_dev_b_leds.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b_leds.h
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/sppa_scanner/!svn/ver/1/README.html
+END
+spp_dev_b.xip
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b.xip
+END
+spp_dev_b.psr
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b.psr
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/sppa_scanner/!svn/ver/1/main.c
+END
+app_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/sppa_scanner/!svn/ver/1/app_state.h
+END
+spp_dev_b.xiw
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sppa_scanner/!svn/ver/1/spp_dev_b.xiw
+END
+led_timing.def
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/sppa_scanner/!svn/ver/1/led_timing.def
+END
+scanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sppa_scanner/!svn/ver/1/scanner.c
+END
+spp_dev_private.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sppa_scanner/!svn/ver/1/spp_dev_private.c
+END
+at_command_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/sppa_scanner/!svn/ver/1/at_command_parse.c
+END
