@@ -77,19 +77,24 @@ typedef struct
     uint8               *pSpp_ReceiveBuf;
     uint16               Spp_ReceiveNum;
     
-
-    bool                 buartseting;
-
-    
-          
-
+    bool                 buartseting;          
+/*
     uint8               *pUart_ReceiveBuf;
     uint16               Uart_ReceiveNum;
+*/
 	/** main state & sub state */
     sppb_state_t        state;
 	connected_state_t	conn_state;
 	
 } sppb_task_t;
+
+tydef struct
+{
+    uint8 head;
+    bdaddr btaddr;
+    uint32 remaintime;
+    uint8 tail
+}Time_Encryption_t
 
 void sppb_init(Task hal_task);
 
